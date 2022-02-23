@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![github contribution grid snake animation](https://github.com/mortezabarzkar/mortezabarzkar/blob/main/_data/github-user-contribution.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mortezabarzkar/mortezabarzkar/output/github-contribution-grid-snake.svg)
 
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
